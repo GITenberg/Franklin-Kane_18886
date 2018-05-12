@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2634
     wikipedia: http://en.wikipedia.org/wiki/Anne_Douglas_Sedgwick
 description: A story about friendships, love, and relationships.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18886#Franklin-Kane
 gutenberg_issued: '2006-07-22'
 gutenberg_type: Text
 identifiers:
